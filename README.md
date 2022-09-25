@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petya Petkova</h1>
-<h3 align="center">A student in SoftUni, ready to develop new skills and achieve my goals.</h3>
+<h3 align="center">A student in SoftUni, ready to achieve my goals and develop new skills.</h3>
 
 - 📫 How to reach me **petq1867@gmail.com**
 
